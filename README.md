@@ -10,13 +10,6 @@ To run this project, you need the following software and libraries installed on 
 5. Numpy
 6. Matplotlib
 7. openpyxl
-
-Dataset:
-We use the attack (class type1 and class type 2) and non-attack datasets, which are generated
-through the net sim stimulator for intrusion detection in IoT devices. The different size datasets
-are 1:1 which is balanced, 1:2 is slightly imbalanced, and 1:3 which is an imbalanced dataset.
-Each of them contains 12 types of features and we use these dataset for our analysis.
-
 Project Structure:
 The project has the following files:
 1. attack_detection_analysis.ipynb: Jupyter notebook that contains the code for
