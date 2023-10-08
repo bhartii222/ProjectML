@@ -3,13 +3,8 @@ Analysis Of Performance Variation On IoT Attacks On Different Dataset Size (Usin
 
 Requirements:
 To run this project, you need the following software and libraries installed on your system:
-1. Python 3.x
-2. Jupyter Notebook
-3. Scikit-learn
-4. Pandas
-5. Numpy
-6. Matplotlib
-7. openpyxl
+Python 3.x, Jupyter Notebook, Scikit-learn, Pandas,  Numpy, Matplotlib, openpyxl
+
 Project Structure:
 The project has the following files:
 1. attack_detection_analysis.ipynb: Jupyter notebook that contains the code for
